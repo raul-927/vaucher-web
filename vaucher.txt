@@ -1,0 +1,4 @@
+URL:		www.vaucher.com.uy
+ip:			23.229.190.99
+UserName:	vaucher927
+Pass:		GaliaPolux927@			

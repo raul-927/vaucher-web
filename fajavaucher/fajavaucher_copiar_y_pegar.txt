@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>VAUCHER Centro Estetico</title>
+        <link href="../css/fajavaucher.css" rel="stylesheet" type="text/css" media="screen" />
+    </head>
+    <body>
+        <div id="contenedor"><img src="http://www.vaucher.com.uy/images/png/fajavaucher.PNG" width="750" height="2347" border="0" usemap="#Map" />
+            <map name="Map" id="Map">
+                <area shape="rect" coords="181,44,520,300" href="http://www.vaucher.com.uy" target="_blank" />
+               
+                <area shape="rect" coords="598,18,647,68" href="https://www.facebook.com/profile.php?id=100002191326737" target="_blank" />
+                <area shape="rect" coords="312,2684,359,2735" href="https://www.facebook.com/profile.php?id=100002191326737" target="_blank" />
+            </map>
+        </div> 
+    </body>
+</html>
