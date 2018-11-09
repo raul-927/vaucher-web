@@ -6,7 +6,7 @@
 	    // we want to pass to the map  
 	    var options = {
 	      zoom: 17,
-	      center: new google.maps.LatLng(-34.888058, -56.145727),
+	      center: new google.maps.LatLng(-34.830847, -55.978663),
 	      mapTypeId: google.maps.MapTypeId.ROADMAP
 	    };
 
@@ -15,14 +15,14 @@
 	    
 	    // Adding a marker to the map
 	    var marker = new google.maps.Marker({
-	        position: new google.maps.LatLng(-34.888058, -56.145727),
+	        position: new google.maps.LatLng(-34.830847, -55.978663),
 	      map: map,
 	      title: 'Centro Estetico Vaucher'
 	    });
 	    
 	    // Creating an InfoWindow with the content text: "Hello World"
 	    var infowindow = new google.maps.InfoWindow({
-	      content: 'Cairoli 2076 entre Avenida Italia y &Aacute;balos'
+	      content: 'Secco Garc&iacute;a Manzana F, Solar 8'
 	    });
 	    
 	    // Adding a click event to the marker

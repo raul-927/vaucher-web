@@ -28,10 +28,10 @@ class Menu
                  <li>
 	                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tratamientos corporales<b class="caret"></b></a>
 	                 <ul class="dropdown-menu">
-		                 <li><a href="ultracavitacion.php">Ultravacitacion</a></li>
+<!-- 		                 <li><a href="ultracavitacion.php">Ultravacitacion</a></li> -->
 		                 <li><a href="RadioFrecuencia.php">Radio Frecuencia Tripolar</a></li>
 		                 <li><a href="electrodos.php">Electrodos</a></li>
-		                 <li><a href="presoterapia.php">Presoterapia</a></li>
+<!-- 		                 <li><a href="presoterapia.php">Presoterapia</a></li> -->
 		                 <li class="divider"></li>
 	                 </ul>
                 </li>
@@ -42,7 +42,7 @@ class Menu
 		                 <li><a href="masajeTerapeutico.php">Terapeutico</a></li>
 		                 <li><a href="drenajeLinfatico.php">Drenaje Linfatico</a></li>
 		                 <li><a href="masajeModelador.php">Modelador</a></li>
-		                 <li><a href="plisagge.php">Plisagge</a></li>
+<!-- 		                 <li><a href="plisagge.php">Plisagge</a></li> -->
 		                 <li class="divider"></li>
 	                 </ul>
                 </li>
@@ -58,9 +58,9 @@ class Menu
 	                 </ul>
                 </li>
                 <li>
-	                 <a href="depilacion.php" class="dropdown-toggle">Depilacion<b ></b></a>
+<!-- 	                 <a href="depilacion.php" class="dropdown-toggle">Depilacion<b ></b></a> -->
 	                 
-                </li>
+<!--                 </li> -->
                 
                  <li>
 	                 <a href="comoEncontrarnos.php" class="dropdown-toggle" >Cont&aacute;ctenos<b ></b></a>

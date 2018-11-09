@@ -11,21 +11,21 @@ class ContenidoIndex
 		<div class ="caption col-md-offset-3 col-xs-offset-4 col-lg-offset-4">
 			<h3 class ="Tumb"> Tratamientos Corporales</h3>
 		</div>
-			<div class="col-md-6 col-sm-10 col-lg-3 col-xs-12">
+<!-- 			<div class="col-md-6 col-sm-10 col-lg-3 col-xs-12"> -->
 				
-		    	<div href="ultracavitacion.php" class="thumbnail">
-		    		<img  src="images/tumbs/cavitacion-300.jpg" class="img-circle"/>
-		    		<div class="caption">
-				    	<h3>Ultracavitaci&oacute;n</h3>
-				    	<p>
-				    		La Cavitaci&oacute;n (o Lipocavitaci&oacute;n) para adelgazar consiste en utilizar un tipo espec&iacute;fico de ultrasonidos de baja  
-							frecuencia sobre las c&eacute;lulas grasas (adipocitos) para crear unas burbujas que implosionan en su interior...</p>
-				    	<p>
-				    		<a href="ultracavitacion.php" class="btn btn-primary">Leer mas</a>
-				    	</p>
-				    </div>
-		    	</div>
-		    </div>
+<!-- 		    	<div href="ultracavitacion.php" class="thumbnail"> -->
+<!-- 		    		<img  src="images/tumbs/cavitacion-300.jpg" class="img-circle"/> -->
+<!-- 		    		<div class="caption"> -->
+<!-- 				    	<h3>Ultracavitaci&oacute;n</h3> -->
+<!-- 				    	<p> -->
+<!-- 				    		La Cavitaci&oacute;n (o Lipocavitaci&oacute;n) para adelgazar consiste en utilizar un tipo espec&iacute;fico de ultrasonidos de baja   -->
+<!-- 							frecuencia sobre las c&eacute;lulas grasas (adipocitos) para crear unas burbujas que implosionan en su interior...</p> -->
+<!-- 				    	<p> -->
+<!-- 				    		<a href="ultracavitacion.php" class="btn btn-primary">Leer mas</a> -->
+<!-- 				    	</p> -->
+<!-- 				    </div> -->
+<!-- 		    	</div> -->
+<!-- 		    </div> -->
 		    
 	      	<div class="col-md-6 col-sm-10 col-lg-3 col-xs-12">
 		    	<div href="#" class="thumbnail">
@@ -45,6 +45,8 @@ class ContenidoIndex
 				    </div>
 		    	</div>
 		    </div>
+		    <div class="col-md-6 col-sm-10 col-lg-3 col-xs-12">
+		    </div>
 		    	
 	        <div class="col-md-6 col-lg-3 col-xs-12">
 		    	<div href="#" class="thumbnail">
@@ -60,23 +62,23 @@ class ContenidoIndex
 		    	</div>
 		    </div>
 		    	
-	       <div class="col-md-6 col-lg-3 col-xs-12">
-		    	<div href="#" class="thumbnail">
-		    		<img  src="images/tumbs/PRESOTERAPIA-300.jpg" class="img-circle"/>
-		    		<div class="caption">
-				    	<h3>Presoterapia</h3>
-				    	<p>
-							La Presoterapia utiliza la presi&oacute;n de aire para realizar un drenaje linf&aacute;tico. 
-							Entre los beneficios de la presoterapia, se destacan el tratamiento de edemas, 
-							la correcci&oacute;n de alteraciones en el sistema circulatorio y la posibilidad de 
-							eliminar la celulitis
-						</p>
-				    	<p>
-				    		<a href="presoterapia.php" class="btn btn-primary">Leer mas</a>
-				    	</p>
-				    </div>
-		    	</div>
-		    </div>
+<!-- 	       <div class="col-md-6 col-lg-3 col-xs-12"> -->
+<!-- 		    	<div href="#" class="thumbnail"> -->
+<!-- 		    		<img  src="images/tumbs/PRESOTERAPIA-300.jpg" class="img-circle"/> -->
+<!-- 		    		<div class="caption"> -->
+<!-- 				    	<h3>Presoterapia</h3> -->
+<!-- 				    	<p> -->
+<!-- 							La Presoterapia utiliza la presi&oacute;n de aire para realizar un drenaje linf&aacute;tico.  -->
+<!-- 							Entre los beneficios de la presoterapia, se destacan el tratamiento de edemas,  -->
+<!-- 							la correcci&oacute;n de alteraciones en el sistema circulatorio y la posibilidad de  -->
+<!-- 							eliminar la celulitis -->
+<!-- 						</p> -->
+<!-- 				    	<p> -->
+<!-- 				    		<a href="presoterapia.php" class="btn btn-primary">Leer mas</a> -->
+<!-- 				    	</p> -->
+<!-- 				    </div> -->
+<!-- 		    	</div> -->
+<!-- 		    </div> -->
 		    
 		    
 		 </div>
@@ -142,46 +144,46 @@ class ContenidoIndex
 		    	</div>
 		    </div>
 		    
-		    <div class="col-md-6 col-sm-10 col-lg-3 col-xs-12">
-		    	<div href="#" class="thumbnail">
-		    		<img  src="images/tumbs/plisagge-300.jpg" class="img-circle"/>
-		    		<div class="caption">
+<!-- 		    <div class="col-md-6 col-sm-10 col-lg-3 col-xs-12"> -->
+<!-- 		    	<div href="#" class="thumbnail"> -->
+<!-- 		    		<img  src="images/tumbs/plisagge-300.jpg" class="img-circle"/> -->
+<!-- 		    		<div class="caption"> -->
 		    		
-				    	<h3>Plissage</h3>
-				    	<p>
-				    		La t&eacute;cnica por succi&oacute;n, 
-				    		basada en la aplicaci&oacute;n de presi&oacute;n negativa, 
-				    		es capaz de alcanzar planos profundos de la piel, 
-				    		logrando un efecto circulatorio y mec&aacute;nico, 
-				    		as&iacute; como la movilizaci&oacute;n del tejido adiposo y el...
+<!-- 				    	<h3>Plissage</h3> -->
+<!-- 				    	<p> -->
+<!-- 				    		La t&eacute;cnica por succi&oacute;n,  -->
+<!-- 				    		basada en la aplicaci&oacute;n de presi&oacute;n negativa,  -->
+<!-- 				    		es capaz de alcanzar planos profundos de la piel,  -->
+<!-- 				    		logrando un efecto circulatorio y mec&aacute;nico,  -->
+<!-- 				    		as&iacute; como la movilizaci&oacute;n del tejido adiposo y el... -->
 				    		
-						</p>
-						<p>
-							<a href="plisagge.php" class="btn btn-primary">Leer mas</a>
-						</p>
-				    </div>
-		    	</div>
-		    </div>
+<!-- 						</p> -->
+<!-- 						<p> -->
+<!-- 							<a href="plisagge.php" class="btn btn-primary">Leer mas</a> -->
+<!-- 						</p> -->
+<!-- 				    </div> -->
+<!-- 		    	</div> -->
+<!-- 		    </div> -->
 		</div>
 		    <div class ="row">
-		    <div class ="caption col-md-offset-3 col-xs-offset-4 col-lg-offset-4">
-			    <h3 class ="Tumb"> Facial</h3>
-			  </div>
-				<div class="col-md-6 col-lg-3 col-xs-12">
+			    <div class ="caption col-md-offset-3 col-xs-offset-4 col-lg-offset-4">
+				    <h3 class ="Tumb"> Facial</h3>
+				</div>
+<!-- 				<div class="col-md-6 col-lg-3 col-xs-12"> -->
 					
-			    		<div href="ultracavitacion.php" class="thumbnail">
-			    			<img  src="images/tumbs/higieneProfunda-300.jpg" class="img-circle"/>
-			    			<div class="caption">
-					    		<h3>Higiene Profunda</h3>
-					    		<p>
-					    			El tratamiento facial de limpieza profunda es ideal esencialmente para extraer puntos negros, 
-					    			p&aacute;pulas, y granitos que se encuentren en un estado m&aacute;s avanzado, as&iacute; como 
-					    			tambi&eacute;n ayuda a equilibrar el pH de la piel y darle una tonalidad m&aacute;s clara. 
-					    		</p>
-					    		<p><a href="highieneProfunda.php" class="btn btn-primary">Leer mas</a></p>
-					    	</div>
-			    		</div>
-			    	</div>
+<!-- 			    		<div href="ultracavitacion.php" class="thumbnail"> -->
+<!-- 			    			<img  src="images/tumbs/higieneProfunda-300.jpg" class="img-circle"/> -->
+<!-- 			    			<div class="caption"> -->
+<!-- 					    		<h3>Higiene Profunda</h3> -->
+<!-- 					    		<p> -->
+<!-- 					    			El tratamiento facial de limpieza profunda es ideal esencialmente para extraer puntos negros,  -->
+<!-- 					    			p&aacute;pulas, y granitos que se encuentren en un estado m&aacute;s avanzado, as&iacute; como  -->
+<!-- 					    			tambi&eacute;n ayuda a equilibrar el pH de la piel y darle una tonalidad m&aacute;s clara.  -->
+<!-- 					    		</p> -->
+<!-- 					    		<p><a href="highieneProfunda.php" class="btn btn-primary">Leer mas</a></p> -->
+<!-- 					    	</div> -->
+<!-- 			    		</div> -->
+<!-- 			    </div> -->
 			    	
 		          <div class="col-md-6 col-lg-3 col-xs-12">
 			    		<div href="#" class="thumbnail">
@@ -230,32 +232,30 @@ class ContenidoIndex
 			    		</div>
 			    	</div>
 		    </div>
-		    <div class ="row">
-		    <div class ="caption col-md-offset-3 col-xs-offset-4 col-lg-offset-4">
-			    <h3 class ="Tumb"> Depilacion</h3>
-			 </div>
-				<div class="col-md-6 col-lg-3 col-xs-12">
+<!-- 		    <div class ="row"> -->
+<!-- 			    <div class ="caption col-md-offset-3 col-xs-offset-4 col-lg-offset-4"> -->
+<!-- 				    <h3 class ="Tumb"> Depilacion</h3> -->
+<!-- 				</div> -->
+<!-- 				<div class="col-md-6 col-lg-3 col-xs-12"> -->
 					
-			    		<div href="#" class="thumbnail">
-			    			<img src="images/tumbs/depilacion-300.jpg" class="img-circle"/>
-			    			<div class="caption">
-					    		<h3>Depilaci&oacute;n</h3>
-					    		<p>
-					    		La cera te brinda de 4 a 6 semanas libres de vello en la zona &iacute;ntima. 
-					    		Es algo dolorosa pero cuando te acostumbras ya no duele tanto. 
-					    		Puedes hac&eacute;rtela t&uacute; misma en casa o bien concurrir a cualquier sal&oacute;n de belleza o depilaci&oacute;n, 
-					    		ya que es el m&eacute;todo de depilaci&oacute;n &iacute;ntima m&aacute;s popular. 
-					    		El beneficio adicional de este sistema es que te deja la piel suave y sedosa, 
-					    		adem&aacute;s de ser adecuado tanto para la l&iacute;nea de bikini como para la depilaci&oacute;n total 
-					    		de la zona &iacute;ntima.
-					    		</p>
-					    		<p><a href="depilacion.php" class="btn btn-primary">Leer mas</a></p>
-					    	</div>
-			    		</div>
-			    	</div>
-			    	
-		          
-			</div>
+<!-- 			    		<div href="#" class="thumbnail"> -->
+<!-- 			    			<img src="images/tumbs/depilacion-300.jpg" class="img-circle"/> -->
+<!-- 			    			<div class="caption"> -->
+<!-- 					    		<h3>Depilaci&oacute;n</h3> -->
+<!-- 					    		<p> -->
+<!-- 					    		La cera te brinda de 4 a 6 semanas libres de vello en la zona &iacute;ntima.  -->
+<!-- 					    		Es algo dolorosa pero cuando te acostumbras ya no duele tanto.  -->
+<!-- 					    		Puedes hac&eacute;rtela t&uacute; misma en casa o bien concurrir a cualquier sal&oacute;n de belleza o depilaci&oacute;n,  -->
+<!-- 					    		ya que es el m&eacute;todo de depilaci&oacute;n &iacute;ntima m&aacute;s popular.  -->
+<!-- 					    		El beneficio adicional de este sistema es que te deja la piel suave y sedosa,  -->
+<!-- 					    		adem&aacute;s de ser adecuado tanto para la l&iacute;nea de bikini como para la depilaci&oacute;n total  -->
+<!-- 					    		de la zona &iacute;ntima. -->
+<!-- 					    		</p> -->
+<!-- 					    		<p><a href="depilacion.php" class="btn btn-primary">Leer mas</a></p> -->
+<!-- 					    	</div> -->
+<!-- 			    		</div> -->
+<!-- 			    	</div> -->
+<!-- 			</div> -->
 	
 	
 <?php	

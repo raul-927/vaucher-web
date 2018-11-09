@@ -10,16 +10,13 @@ class ContenidoComoEncontrarnos{
 	 
 		<h3>Direcci&oacute;n</h3>
 		<p>
-        	Cairoli 2076 entre Avenida Italia y &Aacute;balos.
+        	Secco Garc&iacute;a Manzana F, Solar 8 (Ciudad de la Costa, Lagomar)
 		</p>
 		
 		
 		<h3>Tel&eacute;fono</h3>
 		<p>
-	     	24-87-55-44
-	     	<br/>
-	     	<br/>
-	     	091-020-020
+	     	091-020-020, 094-237-451
     	</p>
     	
     	<h3>Mail</h3>

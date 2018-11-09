@@ -11,28 +11,28 @@ class Footer
 				
 					<h3>Direccion:</h3>
 					<small>
-					 	Cairoli 2076
+					 	Secco Garc&iacute;a Manzana F, Solar 8 (Ciudad de la costa, Lagomar)
 					</small>
 				
 					<h3>Telefono:</h3>
 				<small>
-						24-87-55-44
+						091-020-020, 094-237-451
 				</small>
 				
 				
-					<h3>Mail:</h3>
-				<small>
-					<a href="mailto:info@vaucher.com.uy">info@vaucher.com.uy</a>
-				</small>
-				<br /><br />
+<!-- 					<h3>Mail:</h3> -->
+<!-- 				<small> -->
+<!-- 					<a href="mailto:info@vaucher.com.uy">info@vaucher.com.uy</a> -->
+<!-- 				</small> -->
+<!-- 				<br /><br /> -->
 				<!-- inicio codigo contador -->
-					<div>
-					<a href="#">Eres el visitante n&uacute;mero:</a>
-					<br/>
-						<img style="border: 0px solid ; display: inline;" alt="contador de visitas"
-        					src="http://contador-de-visitas.com/hit.php?id=2080598&counter=24">	
-					<br /><br />
-					</div>
+<!-- 					<div> -->
+<!-- 						<a href="#">Eres el visitante n&uacute;mero:</a> -->
+<!-- 					<br/> -->
+<!--  						<img style="border: 0px solid ; display: inline;" alt="contador de visitas" -->
+<!--         					src="http://contador-de-visitas.com/hit.php?id=2080598&counter=24">	 -->
+<!-- 					<br /><br /> -->
+<!-- 					</div> -->
 				<!-- fin codigo contador -->
 			</div>
 			
@@ -40,37 +40,37 @@ class Footer
 				<a href ="https://www.facebook.com/estetica.vaucher?fref=ts" class="btn btn-social-icon btn-sm btn-facebook" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);">
 			    	<i class="fa fa-facebook"></i>
 			    </a>
-			    <a class ="btn btn-social-icon btn-sm btn-twitter" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);">
-			    	<i class ="fa fa-twitter"></i>
-			    </a>
-			    <a class ="btn btn-social-icon btn-sm btn-google-plus" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);">
-			    	<i class ="fa fa-google-plus"></i>
-			    </a>
+<!--  			    <a class ="btn btn-social-icon btn-sm btn-twitter" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);"> -->
+<!-- 			    	<i class ="fa fa-twitter"></i> -->
+<!-- 			    </a> -->
+<!--  			    <a class ="btn btn-social-icon btn-sm btn-google-plus" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);"> -->
+<!-- 			    	<i class ="fa fa-google-plus"></i> -->
+<!-- 			    </a> -->
 			    
-			    <a class ="btn btn-social-icon btn-sm btn-linkedin" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);">
-			    	<i class ="fa fa-linkedin"></i>
-			    </a>
+<!--  			    <a class ="btn btn-social-icon btn-sm btn-linkedin" onclick="_gaq.push(['_trackEvent', 'btn-social-icon', 'click', 'btn-sm']);"> -->
+<!-- 			    	<i class ="fa fa-linkedin"></i> -->
+<!-- 			    </a> -->
 			</div>
 			<br/>
-			<div class="col-md-4 col-sm-6 col-xs-12">
+<!-- 			<div class="col-md-4 col-sm-6 col-xs-12"> -->
 			
 				
 	         
 				<?php 
-				/*
-					$visitas = new ContadorVisitas();
-					$array = $visitas->contador();
+				
+// 					$visitas = new ContadorVisitas();
+// 					$array = $visitas->contador();
 						
-					echo "<h4> &Uacute;ltimo Mes Visitado: $array[0]</h4> ";
-					echo"<br/>";
-					echo "<h4>Cantidad de Visitas del Mes: $array[1]</h4>";
-					echo"<br/>";
-					echo "<h4>Total de Visitas:            $array[2]</h4>";
-				*/
-				?>
+// 					echo "<h4> &Uacute;ltimo Mes Visitado: $array[0]</h4> ";
+// 					echo"<br/>";
+// 					echo "<h4>Cantidad de Visitas del Mes: $array[1]</h4>";
+// 					echo"<br/>";
+// 					echo "<h4>Total de Visitas:            $array[2]</h4>";
+				
+// 				?>
             	
             	
-			</div>
+<!-- 			</div> -->
 			<div class="col-xs-12 col-md-6 col-lg-6">
 				<form method = "POST" action ="contacto.php" onsubmit="return Validar(this);" class="form-horizontal input-sm">
 					<fieldset>
